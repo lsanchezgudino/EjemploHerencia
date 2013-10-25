@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjemplodeHerencia/EmpleadoBaseMasComision5.cs">
+    <Files>
+      <File FileName="EjemplodeHerencia/Main.cs" Line="30" Column="2" />
+      <File FileName="EjemplodeHerencia/EmpleadoPorComision4.cs" Line="101" Column="2" />
+      <File FileName="EjemplodeHerencia/EmpleadoBaseMasComision5.cs" Line="51" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
